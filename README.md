@@ -23,9 +23,11 @@ decoder:
 CD512-CD512-CD512-C512-C256-C128-C64
 
 In this page, we provide several item such as,
-  a. environment in .yml format
-  b. notebook file for example of the application in .ipynb (include generate training data)
-  c. prediction Quality Control (frequency spectrume and x-correlation)
+<ul>
+  <li>environment in .yml format</li>
+  <li>notebook file for example of the application in .ipynb (include generate training data)</li>
+  <li>prediction Quality Control (frequency spectrume and x-correlation)</li>
+</ul>
   
 First thing first, we do not provide any data in this github page. But in the notebook code, we have already introduced the cell to import in .segy format using segysak. Then the training start by nullify some traces inside of our interest seismic data.
 
