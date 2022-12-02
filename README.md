@@ -1,11 +1,11 @@
 # Geohackaton 2022 - Midnight Spirit
 
-Author :
-Maulana Hutama ()
-Loris Alif Syahputra
-Hadyan Pratama
-Sathes Kumar
-Stallone Teng
+Author : <br>
+Maulana Hutama (https://www.linkedin.com/in/maulanahutama14/) <br>
+Loris Alif (https://www.linkedin.com/in/lorisalif/) <br>
+Hadyan Pratama (https://www.linkedin.com/in/hadyanpratama/) <br>
+Sathes Kumar (https://www.linkedin.com/in/skss/) <br>
+Stallone Teng (https://www.linkedin.com/in/stallone-teng-b417334a/) <br>
 
 
 Missing traces is one of a real-world problem that has been facing by geoscientist. One of the case is that there is gas chimney overlay above the horizon makes the surface below become blurry. By addressing this problem, we come up with solution using supervised machine-learning method called as Generative Adversiral Network (GAN) pix2pix. We are using this method since its applicaton is still new in geoscience problem.
@@ -41,7 +41,7 @@ Altough in our usage we still using 256 x 256 pixels, we are encourage to the re
 
 Big thanks to GeoHackaton 2022 committee to provide excellent competition and provide us powerful VM. 
 
-Regards,
+Regards,<br>
 Midnight Spirit
 
 
