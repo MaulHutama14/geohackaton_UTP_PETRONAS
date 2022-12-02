@@ -37,8 +37,10 @@ First thing first, we do not provide any data in this github page. But in the no
   <img src="https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS/blob/main/training_test.png" width="300" height="300">
 </p>
 By training default from the program, if you are using python with CUDA environment, it will need 20 - 30 minutes (if not, you will need around 1 hour++). The quality control of the data can be defined as two part, the first one is,
-  1. There is less amplitude spectrum difference between the original and the predicted seismic data
-  2. Cross-correlation between predicted and true data in the missing traces is having average at ~85%.
+<ol>
+  <li>There is less amplitude spectrum difference between the original and the predicted seismic data</li>
+  <li>Cross-correlation between predicted and true data in the missing traces is having average at ~85%.</li>
+</ol>
 <p align="center">
   <img src="https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS/blob/main/blind_test.png" width="250" height="150">
 </p>
