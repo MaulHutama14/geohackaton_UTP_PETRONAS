@@ -1,11 +1,11 @@
 # Geohackaton 2022 - Midnight Spirit
 
 Author : <br>
-Maulana Hutama (https://www.linkedin.com/in/maulanahutama14/) <br>
-Loris Alif (https://www.linkedin.com/in/lorisalif/) <br>
-Hadyan Pratama (https://www.linkedin.com/in/hadyanpratama/) <br>
-Sathes Kumar (https://www.linkedin.com/in/skss/) <br>
-Stallone Teng (https://www.linkedin.com/in/stallone-teng-b417334a/) <br>
++ [Maulana Hutama](https://www.linkedin.com/in/maulanahutama14/) <br>
++ [Loris Alif](https://www.linkedin.com/in/lorisalif/) <br>
++ [Hadyan Pratama](https://www.linkedin.com/in/hadyanpratama/) <br>
++ [Sathes Kumar](https://www.linkedin.com/in/skss/) <br>
++ [Stallone Teng](https://www.linkedin.com/in/stallone-teng-b417334a/) <br>
 
 # Description - GAN Pix2Pix
 
