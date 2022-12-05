@@ -42,7 +42,7 @@ By training default from the program, if you are using python with CUDA environm
   <li>Cross-correlation between predicted and true data in the missing traces is having average at ~85%.</li>
 </ol>
 <p align="center">
-  <img src="https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS/blob/main/blind_test.png" width="250" height="150">
+  <img src="https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS/blob/main/blind_test.png" width=75%>
 </p>
 <p align="center">
   <img src="https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS/blob/main/frequency_spectrume.png" width="300" height="250">
